@@ -6,7 +6,7 @@
     "description": "This API has been converted from the official Cumulocity Postman Collection. https://cumulocity.com/guides/microservice-sdk/rest/",
     "contact": {}
   },
-  "host": "{host}",
+  "host": "{mlu.us.cumulocity.com}",
   "basePath": "/",
   "securityDefinitions": {
     "auth": {
